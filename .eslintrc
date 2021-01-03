@@ -23,6 +23,8 @@
       "ignoreClassFields": true
     }
     ],
-    "react/prop-types": [0]
+    "react/prop-types": [0],
+    "no-console": "off",
+    "no-unused-vars": ["error", { "argsIgnorePattern": "next" }]
   }
 }
