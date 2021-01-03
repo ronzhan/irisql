@@ -5,3 +5,4 @@ package-lock.json
 build
 # Exclude Jest log files
 false
+config
